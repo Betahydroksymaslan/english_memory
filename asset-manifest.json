@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/english_memory/static/css/main.e82815ee.chunk.css",
-    "main.js": "/english_memory/static/js/main.4b25213b.chunk.js",
-    "main.js.map": "/english_memory/static/js/main.4b25213b.chunk.js.map",
+    "main.css": "/english_memory/static/css/main.0d5e0d9e.chunk.css",
+    "main.js": "/english_memory/static/js/main.f256cc25.chunk.js",
+    "main.js.map": "/english_memory/static/js/main.f256cc25.chunk.js.map",
     "runtime-main.js": "/english_memory/static/js/runtime-main.64a05e7d.js",
     "runtime-main.js.map": "/english_memory/static/js/runtime-main.64a05e7d.js.map",
     "static/js/2.3405cb10.chunk.js": "/english_memory/static/js/2.3405cb10.chunk.js",
@@ -10,13 +10,14 @@
     "static/js/3.4bb4428e.chunk.js": "/english_memory/static/js/3.4bb4428e.chunk.js",
     "static/js/3.4bb4428e.chunk.js.map": "/english_memory/static/js/3.4bb4428e.chunk.js.map",
     "index.html": "/english_memory/index.html",
-    "static/css/main.e82815ee.chunk.css.map": "/english_memory/static/css/main.e82815ee.chunk.css.map",
-    "static/js/2.3405cb10.chunk.js.LICENSE.txt": "/english_memory/static/js/2.3405cb10.chunk.js.LICENSE.txt"
+    "static/css/main.0d5e0d9e.chunk.css.map": "/english_memory/static/css/main.0d5e0d9e.chunk.css.map",
+    "static/js/2.3405cb10.chunk.js.LICENSE.txt": "/english_memory/static/js/2.3405cb10.chunk.js.LICENSE.txt",
+    "static/media/londonImage.da0117b9.svg": "/english_memory/static/media/londonImage.da0117b9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.64a05e7d.js",
     "static/js/2.3405cb10.chunk.js",
-    "static/css/main.e82815ee.chunk.css",
-    "static/js/main.4b25213b.chunk.js"
+    "static/css/main.0d5e0d9e.chunk.css",
+    "static/js/main.f256cc25.chunk.js"
   ]
 }
