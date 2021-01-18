@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/english_memory/static/css/main.131156a0.chunk.css",
+    "main.css": "/english_memory/static/css/main.1750d941.chunk.css",
     "main.js": "/english_memory/static/js/main.49c0cb15.chunk.js",
     "main.js.map": "/english_memory/static/js/main.49c0cb15.chunk.js.map",
     "runtime-main.js": "/english_memory/static/js/runtime-main.d1214bba.js",
@@ -12,14 +12,14 @@
     "index.html": "/english_memory/index.html",
     "service-worker.js": "/english_memory/service-worker.js",
     "service-worker.js.map": "/english_memory/service-worker.js.map",
-    "static/css/main.131156a0.chunk.css.map": "/english_memory/static/css/main.131156a0.chunk.css.map",
+    "static/css/main.1750d941.chunk.css.map": "/english_memory/static/css/main.1750d941.chunk.css.map",
     "static/js/2.ba45a3f0.chunk.js.LICENSE.txt": "/english_memory/static/js/2.ba45a3f0.chunk.js.LICENSE.txt",
     "static/media/londonImage.3fc3c4ee.svg": "/english_memory/static/media/londonImage.3fc3c4ee.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d1214bba.js",
     "static/js/2.ba45a3f0.chunk.js",
-    "static/css/main.131156a0.chunk.css",
+    "static/css/main.1750d941.chunk.css",
     "static/js/main.49c0cb15.chunk.js"
   ]
 }
